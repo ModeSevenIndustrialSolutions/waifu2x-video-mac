@@ -426,10 +426,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Waifu2x Video/Waifu2x_Video.entitlements";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Waifu2x Video/Preview Content\"";
-				DEVELOPMENT_TEAM = 8WB2V923XT;
+				DEVELOPMENT_TEAM = DQW63U3F95;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Waifu2x Video/Info.plist";
@@ -449,10 +450,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Waifu2x Video/Waifu2x_Video.entitlements";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Waifu2x Video/Preview Content\"";
-				DEVELOPMENT_TEAM = 8WB2V923XT;
+				DEVELOPMENT_TEAM = DQW63U3F95;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Waifu2x Video/Info.plist";
